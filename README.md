@@ -17,7 +17,7 @@ WebSockets are an alternative to HTTP communication in Web Application, they off
 Step 1: Clone the repo
 
 ```bash
-git clone https://github.com/yashgangwar212/ChatApp.git
+git clone  https://github.com/yashgangawar212/ChatApp
 ```
 
 Step 2: cd into the cloned repo and run:
